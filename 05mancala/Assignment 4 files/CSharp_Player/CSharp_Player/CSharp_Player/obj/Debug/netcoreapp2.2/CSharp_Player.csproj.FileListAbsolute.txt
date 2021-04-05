@@ -1,0 +1,11 @@
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\bin\Debug\netcoreapp2.2\CSharp_Player.deps.json
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\bin\Debug\netcoreapp2.2\CSharp_Player.runtimeconfig.json
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\bin\Debug\netcoreapp2.2\CSharp_Player.runtimeconfig.dev.json
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\bin\Debug\netcoreapp2.2\CSharp_Player.dll
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\bin\Debug\netcoreapp2.2\CSharp_Player.pdb
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\obj\Debug\netcoreapp2.2\CSharp_Player.csprojAssemblyReference.cache
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\obj\Debug\netcoreapp2.2\CSharp_Player.csproj.CoreCompileInputs.cache
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\obj\Debug\netcoreapp2.2\CSharp_Player.AssemblyInfoInputs.cache
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\obj\Debug\netcoreapp2.2\CSharp_Player.AssemblyInfo.cs
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\obj\Debug\netcoreapp2.2\CSharp_Player.dll
+C:\Users\mlz02\Google Drive\Universidad\1 Cursos\2020\Artificial Intelligence 2020\Mancala\CSharp_Player\CSharp_Player\obj\Debug\netcoreapp2.2\CSharp_Player.pdb
