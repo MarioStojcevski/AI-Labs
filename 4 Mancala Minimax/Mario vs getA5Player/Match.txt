@@ -1,0 +1,42 @@
+000  Game 0
+
+002  Mario 6 - 42 getA5Player
+
+000  Game 1
+
+002  getA5Player 35 - 13 Mario
+
+000  Game 2
+
+002  Mario 6 - 42 getA5Player
+
+000  Game 3
+
+002  getA5Player 35 - 13 Mario
+
+000  Game 4
+
+002  Mario 6 - 42 getA5Player
+
+000  Game 5
+
+002  getA5Player 35 - 13 Mario
+
+000  Game 6
+
+002  Mario 6 - 42 getA5Player
+
+000  Game 7
+
+002  getA5Player 35 - 13 Mario
+
+000  Game 8
+
+002  Mario 6 - 42 getA5Player
+
+000  Game 9
+
+002  getA5Player 35 - 13 Mario
+
+Mario won 0 games. getA5Player won 10 games. There were 0 draws.
+
